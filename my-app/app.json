@@ -26,7 +26,19 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyBGIpBZWFv82IuxmWWM-ruphfXKhpTZm4w",
+          "authDomain": "react-native-tiktok-clone.firebaseapp.com",
+          "databaseURL": "https://react-native-tiktok-clone-default-rtdb.firebaseio.com",
+          "projectId": "react-native-tiktok-clone",
+          "storageBucket": "react-native-tiktok-clone.appspot.com",
+          "messagingSenderId": "539309662749",
+          "appId": "1:539309662749:web:c513c0123cda2705ce9cf4",
+          "measurementId": "G-7RS0WCYK1G"
+        }
+      }
     }
   }
 }
